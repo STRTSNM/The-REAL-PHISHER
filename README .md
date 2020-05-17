@@ -1,0 +1,1 @@
+First run the "pkg install git && pkg install python && pkg install python2". Then chmod 777 THE-REAL-PHISHER,cd THE-ULTIMATE-PHISHER,pip install -r requirements.txt.Then run as root and "python THE-REAL-PHISHER".
